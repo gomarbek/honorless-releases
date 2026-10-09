@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56" role="img" aria-label="Download for Windows">
+  <title>Download for Windows</title>
+  <rect width="300" height="56" rx="10" fill="#88c0d0"/>
+  <g transform="translate(22 14)">
+    <path d="M14 1.75 26.25 14 14 26.25 1.75 14Z" fill="#2e3440"/>
+    <g stroke="#88c0d0" stroke-width="2" stroke-linecap="round" fill="none">
+      <path d="M9.3 8.75 17.7 17.15"/>
+      <path d="M18.7 8.75 10.3 17.15"/>
+      <path d="M15.5 19 19.4 15.2"/>
+      <path d="M8.6 15.2 12.5 19"/>
+    </g>
+  </g>
+  <text x="168" y="35" text-anchor="middle" fill="#2e3440" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Download for Windows</text>
+</svg>
